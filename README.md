@@ -1,6 +1,5 @@
 ## PyCMA - A Python Module for Correlated Mutation Analysis
 
-
 ### Licensing
 
 
@@ -23,6 +22,7 @@ Requires [Python 2.7.2+](http://python.org/),
 
 ### Usage
 
+This work is experimental. Use with caution!
 
 Complete example (found on example.py):
 
