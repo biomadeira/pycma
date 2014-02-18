@@ -111,4 +111,4 @@ r.write_file('example3.txt')
 r.write_file('example4.txt', scores=50, form='basic')
 ```
 
-*[Fábio Madeira](biomadeira.github.io), 2012*
+*[Fábio Madeira](http://biomadeira.github.io), 2012*
